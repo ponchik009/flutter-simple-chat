@@ -1,16 +1,11 @@
 # flutter_simple_chat
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/98012969/174799915-42fc81ab-3378-4a26-af61-41590f85b13e.png)
 
-## Getting Started
+## Что это?
+Мини-приложение на flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Как пользоваться?
+<p>Вводите фразу</p>
+<p>Ждёте ответа рандомной фразой</p>
+<p>От увиденного чуда становитесь добрым и переводите на номер +7********************5 10000000 рублей в наносекунду</p>
